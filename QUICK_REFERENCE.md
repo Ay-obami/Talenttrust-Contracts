@@ -118,7 +118,7 @@ cargo build -p escrow
 
 ## Documentation Locations
 
-- **Implementation Details:** `CANCEL_CONTRACT_FIX_SUMMARY.md`
+- **Implementation Details:** Inline rustdoc and state guards in `contracts/escrow/src/lib.rs`
 - **Testing Steps:** `TESTING_GUIDE.md` (this file)
 - **API Documentation:** Inline rustdoc in `contracts/escrow/src/lib.rs`
 - **State Machine:** `docs/escrow/status-transition-guardrails.md`
